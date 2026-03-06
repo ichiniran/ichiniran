@@ -71,4 +71,15 @@ Passionate about building web applications and learning modern technologies.
 
 ---
 
+### 🌐 Live Projects (GitHub Pages)
+
+- 🎨 **FlowerKnows Website Redesign**  
+  🔗 https://ichiniran.github.io/flowerknows-website-redesign/
+
+- 📱 **NTakeDGT Project**
+  🔗 https://ichiniran.github.io/DGTptake/ 
+  🔗 https://ichiniran.github.io/NTakeDGT/
+
+---
+
 ⭐ *Always learning and exploring new technologies in web development.*
