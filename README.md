@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Warun</h1>
-<h3 align="center">Web Development student at Suranaree University of Technology (SUT). Passionate about building web applications and learning modern technologies.</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Web Development student at Suranaree University of Technology (SUT)<br> Passionate about building web applications and learning modern technologies.</h3>
 <p align="left">
 </p>
 
