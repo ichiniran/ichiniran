@@ -65,7 +65,6 @@ Passionate about building web applications and learning modern technologies.
 
 ### 🚀 Featured Projects
 
-- 🔎 **SUT FindBack** – Lost & Found web application for students
 - 🎨 **FlowerKnows UI Redesign** – Frontend redesign concept website
 - 🌐 **Web UI Practice Projects** – HTML, CSS, JavaScript interface experiments
 
