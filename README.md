@@ -11,7 +11,7 @@ Passionate about building web applications and learning modern technologies.
 - 🎓 Web Development student at **Suranaree University of Technology (SUT)**
 - 🌱 Currently learning **modern web technologies**
 - 💻 Interested in **Web Development and Mobile Web Applications**
-- 🎂 Age: **21**
+- 🎂 Age: **22**
 - 🚀 Passionate about creating **interactive web interfaces and web apps**
 
 ---
