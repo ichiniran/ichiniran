@@ -67,17 +67,13 @@ Passionate about building web applications and learning modern technologies.
 
 - 🎨 **FlowerKnows UI Redesign** – Frontend redesign concept website
 - 🌐 **Web UI Practice Projects** – HTML, CSS, JavaScript interface experiments
-
+d
 ---
 
 ### 🌐 Live Projects (GitHub Pages)
 
 - 🎨 **FlowerKnows Website Redesign**  
   🔗 https://ichiniran.github.io/flowerknows-website-redesign/
-
-- 📱 **NTakeDGT Project**  <br>
-  🔗 https://ichiniran.github.io/DGTptake/ <br>
-  🔗 https://ichiniran.github.io/NTakeDGT/
 
 ---
 
