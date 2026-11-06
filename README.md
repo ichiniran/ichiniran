@@ -1,65 +1,51 @@
-<h1 align="center">Hi 👋, I'm Warun Warunya Phokjit</h1>
+<h1 align="center">Hi, I'm Warunya Phokjit 👋</h1>
 
-<h3 align="center">Web Development Student at Suranaree University of Technology (SUT)</h3>
+<h3 align="center">Web Developer | Digital Technology Student</h3>
 
 <p align="center">
-  Passionate about building web applications and learning modern technologies.
+  Third-year Digital Technology student at Suranaree University of Technology, interested in front-end development and UX/UI design. I enjoy building responsive, user-friendly web and mobile applications.
+</p>
+
+<p align="center">
+  <a href="https://warunya-phokjit-portfolio.vercel.app">Portfolio</a> ·
+  <a href="mailto:imwarunn@gmail.com">Email</a> ·
+  Nakhon Ratchasima, Thailand
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🎓 Education
 
-- 🎓 Studying Web Development at **Suranaree University of Technology (SUT)**
-- 🌱 Currently learning **modern web technologies**
-- 💻 Interested in **web development and mobile web applications**
-- 🚀 I enjoy creating **interactive web interfaces and applications**
+**Suranaree University of Technology**  
+Information Science (Digital Technology) · 2024–Present  
+Expected graduation: 2027 · GPAX: 3.98
 
----
+### 🛠️ Skills
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
-  </a>
-</p>
-
----
+- **Front end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap
+- **Back end & databases:** Node.js, PHP, SQL, PostgreSQL, Firebase, Prisma
+- **Mobile:** React Native, Expo
+- **Tools & design:** Git, GitHub, Docker, Figma
+- **AI integration:** Gemini API
 
 ### 🚀 Featured Projects
 
-- 🎨 **[FlowerKnows Website Redesign](https://ichiniran.github.io/flowerknows-website-redesign/)** — A frontend redesign concept.
-- 🌐 **Web UI Practice Projects** — Experiments with HTML, CSS, and JavaScript.
+- **[SUTNest](https://sut-nest.vercel.app/)** — Led full-stack development of a smart dormitory discovery and management platform, with a Gemini-powered advisor and LINE notifications.  
+  *Next.js · TypeScript · PostgreSQL · Prisma · Gemini API*
 
----
+- **[Foundy](https://foundy.pet/pet/create)** — Developed a pet profile creation experience with validation, photo uploads, live ID card preview, and API integration.  
+  *Next.js · React · TypeScript*
 
-### 📫 Contact Me
+- **[Flower Knows Website Redesign](https://ichiniran.github.io/flowerknows-website-redesign/)** — Built responsive sections and interactive UI features for a cosmetics website concept.  
+  *HTML · CSS · JavaScript · Bootstrap · Swiper*
 
-- Instagram: [@_ichiniran](https://www.instagram.com/_ichiniran/)
+- **SUT Findback** — Developed features for a campus lost-and-found mobile app, including posts, search, chat, notifications, and location sharing.  
+  *React Native · Firebase*
+
+- **JodEYang** — A LINE-based task manager for saving tasks and links, with daily and calendar views.
+
+### 📫 Contact
+
 - Email: [imwarunn@gmail.com](mailto:imwarunn@gmail.com)
-
----
-
-⭐ *Always learning and exploring new technologies in web development.*
+- Portfolio: [warunya-phokjit-portfolio.vercel.app](https://warunya-phokjit-portfolio.vercel.app)
+- GitHub: [@ichiniran](https://github.com/ichiniran)
